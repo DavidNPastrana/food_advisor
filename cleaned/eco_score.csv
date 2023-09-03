@@ -1,0 +1,6 @@
+eco_score_id,eco_score_num,description
+A,1,weak environmental impact
+B,2,moderate environmental impact
+C,3,average environmental impact
+D,4,strong environmental impact
+E,5,very strong environmental impact

@@ -1,0 +1,752 @@
+additive_id,name,toxicity
+E100,Curcuminas,low
+E100i,Curcumina,low
+E100ii,Cúrcuma,low
+E101,Riboflavinas,low
+E101i,Riboflavina,low
+E101ii,Fosfato de Riboflavina,low
+E101iii,Riboflavina de Bacillus Subtilis,low
+E101iv,Riboflavina de Ashbya Gossypii,low
+E102,Tartracina,high
+E103,Crisoína,high
+E104,Amarillo de Quinoleína,moderate
+E105,Amarillo Sólido,high
+E107,Amarillo 2G,high
+E110,Amarillo Ocaso FCF,high
+E111,Naranja GGN,high
+E120,Ácido Carmínico,high
+E120i,Rojo Carmín,high
+E120ii,Extracto de Cochinilla,high
+E121,Rojo Cítrico 2,high
+E122,Azorrubina,high
+E123,Amaranto,high
+E124,Ponceau 4R,high
+E125,Ponceau SX,high
+E126,Ponceau 6R,high
+E127,Eritrosina,high
+E128,Rojo 2G,high
+E129,Rojo Allura AC,high
+E130,Azul de Antraquinona,high
+E131,Azul Patente V,high
+E132,Indigotina,moderate
+E133,Azul Brillante FCF,high
+E134,Extracto de Espirulina,under review
+E140,Clorofilas y Clorofilinas,low
+E140i,Clorofila,low
+E140ii,Clorofilina,low
+E141,Complejos Cúpricos de Clorofilas y Clorofilinas,low
+E141i,Complejo Cúprico de Clorofila,low
+E141ii,Complejo Cúprico de Clorofilina,low
+E142,Verde S,high
+E143,Verde Sólido FCF,high
+E150,Caramelos,moderate
+E150a,Caramelo Cáustico,moderate
+E150b,Caramelo Caústico de Sulfito,moderate
+E150c,Caramelo Amónico,moderate
+E150d,Caramelo Amónico de Sulfito,moderate
+E151,Negro Brillante BN,high
+E152,Negro 7984,high
+E153,Carbón Vegetal,low
+E154,Marrón FK,high
+E155,Marrón HT,high
+E160,Carotenos,low
+E160a,Betacarotenos,low
+E160a(i),Betacaroteno Sintético,under review
+E160a(ii),Betacaroteno Vegetal,under review
+E160a(iii),Betacaroteno de Blakeslea Trispora,under review
+E160a(iv),Betacaroteno de Algas,under review
+E160b,Extractos de Annato,low
+E160b(i),Extracto de Annato con Disolventes,under review
+E160b(ii),Extracto de Annato con Álcalis,under review
+E160b(iii),Extracto de Annato con Aceite,under review
+E160c,Extractos de Pimentón,low
+E160c(i),Oleorresina de Pimentón,under review
+E160c(ii),Extracto de Pimentón,under review
+E160d,Licopenos,low
+E160d(i),Licopeno Sintético,under review
+E160d(ii),Licopeno de Tomate,under review
+E160d(iii),Licopeno de Blakeslea Trispora,under review
+E160e,Beta-Apo-8'-Carotenal (C30),low
+E160f,Éster Etílico del Ácido Beta-Apo-8'-Carotenoico,low
+E161,Xantófilas,moderate
+E161a,Flavoxantina,moderate
+E161b,Luteínas,low
+E161b(i),Luteína de Tagetes Erecta,under review
+E161b(ii),Extracto de Tagetes,under review
+E161b(iii),Ésteres de Luteínas de Tagetes Erecta,under review
+E161c,Criptoxantina,moderate
+E161d,Rubixantina,moderate
+E161e,Violaxantina,moderate
+E161f,Rodoxantina,moderate
+E161g,Cantaxantina,high
+E161h,Zeaxantinas,low
+E161h(i),Zeaxantina Sintética,under review
+E161h(ii),Zeaxantina Rica en Extracto de Tagetes Erecta,under review
+E161i,Citranaxantina,under review
+E161j,Astaxantina,low
+E162,Rojo de Remolacha,low
+E163,Antocianinas,low
+E163i,Extracto de Rábano,under review
+E163ii,Extracto de Piel de Uva,under review
+E163iii,Extracto de Grosella Negra,under review
+E163iv,Colorante de Maíz morado,under review
+E163v,Colorante de Col Lombarda,under review
+E163vi,Extracto de Zanahoria Negra,under review
+E163vii,Colorante de Batata Morada,under review
+E163viii,Colorante de Rábano Rojo,under review
+E163ix,Colorante de Saúco,under review
+E163x,Colorante de Hibisco,under review
+E163xi,Extracto de Campanilla Azul,under review
+E163a,Cianidina,low
+E163b,Delfinidina,low
+E163c,Malvidina,low
+E163d,Pelargonidina,low
+E163e,Peonidina,low
+E163f,Petunidina,low
+E164,Amarillo de Gardenia,under review
+E165,Azul de Gardenia,high
+E166,Madera de Sándalo,under review
+E170,Carbonatos Cálcicos,low
+E170i,Carbonato Cálcico,low
+E170ii,Bicarbonato Cálcico,low
+E171,Dióxido de Titanio,high
+E172,Óxidos e Hidróxidos Férricos,low
+E172i,Óxido Férrico Negro,under review
+E172ii,Óxido Férrico Rojo,under review
+E172iii,Óxido Férrico Amarillo,under review
+E173,Aluminio Comestible,high
+E174,Plata Comestible,high
+E175,Oro Comestible,high
+E176,Pigmentos Nacarados de Aluminosilicato Potásico,under review
+E176i,Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio,under review
+E176ii,Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Óxido de Hierro,under review
+E176iii,Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio y Óxido de Hierro,under review
+E180,Litolrubina BK,high
+E181,Ácido Tánico,under review
+E182,Orceína,high
+E183,Azul de Jagua,under review
+E200,Ácido Sórbico,low
+E201,Sorbato Sódico,low
+E202,Sorbato Potásico,low
+E203,Sorbato Cálcico,moderate
+E209,Para-Hidroxibenzoato de Heptilo,under review
+E210,Ácido Benzoico,high
+E211,Benzoato Sódico,high
+E212,Benzoato Potásico,high
+E213,Benzoato Cálcico,high
+E214,Para-Hidroxibenzoato de Etilo,high
+E215,Para-Hidroxibenzoato Sódico de Etilo,high
+E216,Para-Hidroxibenzoato de Propilo,high
+E217,Para-Hidroxibenzoato Sódico de Propilo,high
+E218,Para-Hidroxibenzoato de Metilo,high
+E219,Para-Hidroxibenzoato Sódico de Metilo,high
+E220,Dióxido de Azufre,high
+E221,Sulfito Sódico,high
+E222,Bisulfito Sódico,high
+E223,Metabisulfito Sódico,high
+E224,Metabisulfito Potásico,high
+E225,Sulfito Potásico,high
+E226,Sulfito Cálcico,high
+E227,Bisulfito Cálcico,high
+E228,Bisulfito Potásico,high
+E230,Bifenilo,high
+E231,Ortofenilfenol,high
+E232,Ortofenilfenol Sódico,high
+E233,Tiabendazol,high
+E234,Nisina,low
+E235,Natamicina,low
+E236,Ácido Fórmico,high
+E237,Formiato Sódico,high
+E238,Formiato Cálcico,high
+E239,Hexametilentetramina,high
+E240,Formaldehído,high
+E241,Goma de Guayaco,under review
+E242,Dimetil Dicarbonato,high
+E243,Etil-Lauroil Arginato,low
+E249,Nitrito Potásico,high
+E250,Nitrito Sódico,high
+E251,Nitrato Sódico,moderate
+E251i,Nitrato Sódico Sólido,under review
+E251ii,Nitrato Sódico Líquido,under review
+E252,Nitrato Potásico,moderate
+E260,Ácido Acético,low
+E261,Acetatos Potásicos,low
+E261i,Acetato Potásico,under review
+E261ii,Diacetato Potásico,under review
+E262,Acetatos Sódicos,low
+E262i,Acetato Sódico,under review
+E262ii,Diacetato Sódico,under review
+E263,Acetato Cálcico,low
+E264,Acetato Amónico,low
+E265,Ácido Dehidroacético,under review
+E266,Dehidroacetato Sódico,under review
+E270,Ácido Láctico,low
+E280,Ácido Propiónico,high
+E281,Propionato Sódico,high
+E282,Propionato Cálcico,high
+E283,Propionato Potásico,high
+E284,Ácido Bórico,high
+E285,Tetraborato Sódico,high
+E290,Dióxido de Carbono (CO2),low
+E296,Ácido Málico,moderate
+E297,Ácido Fumárico,low
+E300,Ácido Ascórbico,low
+E301,Ascorbato Sódico,low
+E302,Ascorbato Cálcico,low
+E303,Ascorbato Potásico,low
+E304,Ésteres de Ácidos Grasos del Ácido Ascórbico,low
+E304i,Palmitato de Ascorbilo,low
+E304ii,Estearato de Ascorbilo,low
+E306,Extractos Naturales Ricos en Tocoferoles,low
+E307,Alfa-Tocoferol,low
+E307a,D-Alfa-Tocoferol,under review
+E307b,L-Alfa-Tocoferol,under review
+E307c,DL-Alfa-Tocoferol,under review
+E308,Gamma-Tocoferol,low
+E309,Delta-Tocoferol,low
+E310,Galato de Propilo,high
+E311,Galato de Octilo,high
+E312,Galato de Dodecilo,high
+E313,Galato de Etilo,under review
+E314,Resina de Guayaco,under review
+E315,Ácido Eritórbico,low
+E316,Eritorbato Sódico,low
+E317,Eritorbato Potásico,under review
+E318,Eritorbato Cálcico,under review
+E319,Terbutilhidroquinona (TBHQ),high
+E320,Butilhidroxianisol (BHA),high
+E321,Butilhidroxitolueno (BHT),high
+E322,Lecitinas,low
+E322i,Lecitina de Avena,under review
+E322ii,Lecitina Parcialmente Hidrolizada,under review
+E322iii,Lecitina Hidroxilada,under review
+E323,Anoxómero,under review
+E324,Etoxiquina,high
+E325,Lactato Sódico,low
+E326,Lactato Potásico,low
+E327,Lactato Cálcico,low
+E328,Lactato Amónico,low
+E329,Lactato Magnésico,low
+E330,Ácido Cítrico,low
+E331,Citratos Sódicos,low
+E331i,Citrato Monosódico,low
+E331ii,Citrato Disódico,low
+E331iii,Citrato Trisódico,low
+E332,Citratos Potásicos,low
+E332i,Citrato Monopotásico,low
+E332ii,Citrato Dipotásico,low
+E332iii,Citrato Tripotásico,low
+E333,Citratos Cálcicos,low
+E333i,Citrato Monocálcico,low
+E333ii,Citrato Dicálcico,low
+E333iii,Citrato Tricálcico,low
+E334,Ácido Tartárico,low
+E335,Tartratos Sódicos,low
+E335i,Tartrato Monosódico,low
+E335ii,Tartrato Disódico,low
+E336,Tartratos Potásicos,low
+E336i,Tartrato Monopotásico,low
+E336ii,Tartrato Dipotásico,low
+E337,Tartrato Sódico-Potásico,low
+E338,Ácido Fosfórico,moderate
+E339,Fosfatos Sódicos,moderate
+E339i,Fosfato Monosódico,moderate
+E339ii,Fosfato Disódico,moderate
+E339iii,Fosfato Trisódico,moderate
+E340,Fosfatos Potásicos,moderate
+E340i,Fosfato Monopotásico,moderate
+E340ii,Fosfato Dipotásico,moderate
+E340iii,Fosfato Tripotásico,moderate
+E341,Fosfatos Cálcicos,moderate
+E341i,Fosfato Monocálcico,moderate
+E341ii,Fosfato Dicálcico,moderate
+E341iii,Fosfato Tricálcico,moderate
+E342,Fosfatos Amónicos,moderate
+E342i,Fosfato Monoamónico,moderate
+E342ii,Fosfato Diamónico,moderate
+E342iii,Fosfato Triamónico,moderate
+E343,Fosfatos Magnésicos,moderate
+E343i,Fosfato Monomagnésico,moderate
+E343ii,Fosfato Dimagnésico,moderate
+E343iii,Fosfato Trimagnésico,moderate
+E344,Citrato Lecitínico,under review
+E345,Citrato Magnésico,under review
+E349,Malatos Amónicos,low
+E349i,Malato de Amonio,low
+E349ii,Malato Ácido de Amonio,low
+E350,Malatos Sódicos,low
+E350i,Malato de Sodio,low
+E350ii,Malato Ácido de Sodio,low
+E351,Malatos Potásicos,low
+E351i,Malato de Potasio,low
+E351ii,Malato Ácido de Potasio,low
+E352,Malatos Cálcicos,low
+E352i,Malato de Calcio,low
+E352ii,Malato Ácido de Calcio,low
+E353,Ácido Metatartárico,low
+E354,Tartratos Cálcicos,low
+E354i,Tartrato Monocálcico,under review
+E354ii,Tartrato Dicálcico,under review
+E355,Ácido Adípico,low
+E356,Adipato Sódico,low
+E357,Adipato Potásico,low
+E358,Adipato Cálcico,under review
+E359,Adipato Amónico,under review
+E360,Adipato Magnésico,under review
+E363,Ácido Succínico,low
+E364,Succinatos Sódicos,under review
+E364i,Succinato Monosódico,under review
+E364ii,Succinato Disódico,under review
+E365,Fumarato Sódico,low
+E366,Fumarato Potásico,low
+E367,Fumarato Cálcico,low
+E368,Fumarato Amónico,low
+E369,Fumarato Magnésico,low
+E370,Heptonolactona,high
+E375,Ácido Nicotínico,moderate
+E380,Citrato Triamónico,low
+E381,Citrato Amónico-Férrico,low
+E383,Glicerofosfato Cálcico,under review
+E384,Citrato Isopropílico,under review
+E385,Etileno Diamina Tetra Acetato (EDTA),high
+E386,Ácido Etileno Diamino Tetraacético (AEDT),high
+E387,Oxiestearina,under review
+E388,Ácido Tiodipropiónico (TDPA),under review
+E389,Tiodipropionato de Dilaurilo,under review
+E390,Tiodipropionato de Distearilo,under review
+E391,Ácido Fítico,under review
+E392,Extractos de Romero,low
+E392i,Extracto de Romero con Acetona,under review
+E392ii,Extracto de Romero con Dióxido de Carbono Supercrítico,under review
+E392iii,Extracto de Romero con Etanol,under review
+E392iv,Extracto de Romero con Hexano y Etanol,under review
+E399,Lactobionato Cálcico,under review
+E400,Ácido Algínico,low
+E401,Alginato Sódico,low
+E402,Alginato Potásico,low
+E403,Alginato Amónico,low
+E404,Alginato Cálcico,low
+E405,Alginato Propilenglicólico,low
+E406,Agar-Agar,low
+E407,Carragenanos,high
+E407a,Algas Euchema Transformadas,high
+E408,Glicano de Levadura Panaria,under review
+E409,Arabinogalactano,under review
+E410,Goma Garrofín,low
+E411,Goma de Avena,under review
+E412,Goma Guar,low
+E413,Goma Tragacanto,low
+E414,Goma Arábiga,moderate
+E415,Goma Xantana,moderate
+E416,Goma Karaya,low
+E417,Goma Tara,low
+E418,Goma Gellan,low
+E419,Goma Ghatti,under review
+E420,Sorbitoles,moderate
+E420i,Sorbitol,moderate
+E420ii,Jarabe de Sorbitol,moderate
+E421,Manitoles,moderate
+E421i,Manitol,under review
+E421ii,Manitol Fermentado,under review
+E422,Glicerol,low
+E423,Ácido Octenil-Succínico (OSA),under review
+E424,Curdlan,under review
+E425,Konjac,low
+E425i,Goma de Konjac,low
+E425ii,Glucomanano de Konjac,low
+E426,Hemicelulosa de Soja,low
+E427,Goma Casia,moderate
+E428,Gelatina Neutra,moderate
+E429,Peptonas,under review
+E429i,Peptona Pépsica,under review
+E429ii,Peptona Pancreática,under review
+E430,Estearato de Polioxietileno 8,high
+E431,Estearato de Polioxietileno 40,high
+E432,Monolaurato de Sorbitán Polioxietinelado (Polisorbato 20),high
+E433,Monooleato de Sorbitán Polioxietinelado (Polisorbato 80),high
+E434,Monopalmitato de Sorbitán Polioxietinelado (Polisorbato 40),high
+E435,Monoestearato de Sorbitán Polioxietinelado (Polisorbato 60),high
+E436,Triestearato de Sorbitán Polioxietinelado (Polisorbato 65),high
+E440,Pectinas,low
+E440i,Pectina,low
+E440ii,Pectina Amidada,low
+E441,Aceite de Semilla de Colza Superglicerinado Hidrogenado,under review
+E442,Fosfátidos Amónicos,moderate
+E443,Aceite Vegetal Bromado,high
+E444,Acetato Isobutírico de Sacarosa,moderate
+E445,Ésteres Glicéridos de Colofonia,low
+E445i,Ésteres Glicéridos de Colofonia de Goma,low
+E445ii,Ésteres Glicéridos de Colofonia de Aceite de Resina,low
+E445iii,Ésteres Glicéridos de Colofonia de Madera,low
+E446,Succistearina,under review
+E450,Difosfatos,moderate
+E450i,Difosfato Disódico,moderate
+E450ii,Difosfato Trisódico,moderate
+E450iii,Difosfato Tetrasódico,moderate
+E450iv,Difosfato Dipotásico,moderate
+E450v,Difosfato Tetrapotásico,moderate
+E450vi,Difosfato Dicálcico,moderate
+E450vii,Difosfato Cálcico de Dihidrógeno,moderate
+E450viii,Difosfato Dimagnésico,moderate
+E450ix,Difosfato Magnésico de Dihidrógeno,moderate
+E451,Trifosfatos,moderate
+E451i,Trifosfato Pentasódico,moderate
+E451ii,Trifosfato Pentapotásico,moderate
+E451iii,Trifosfato Sódico-Potásico,moderate
+E452,Polifosfatos,moderate
+E452i,Polifosfato Sódico,moderate
+E452ii,Polifosfato Potásico,moderate
+E452iii,Polifosfato Sódico-Cálcico,moderate
+E452iv,Polifosfato Cálcico,moderate
+E452v,Polifosfato Amónico,moderate
+E452vi,Hexametafosfato Sódico-Potásico,under review
+E453,Ortofosfato Ferroso,under review
+E454,Pirofosfato Ferroso,under review
+E455,Mannoproteínas de Levadura,under review
+E456,Poliaspartato Potásico,under review
+E457,Alfa-Ciclodextrina,under review
+E458,Gamma-Ciclodextrina,under review
+E459,Beta-Ciclodextrina,under review
+E460,Celulosas,moderate
+E460i,Celulosa Microcristalina,moderate
+E460ii,Celulosa en Polvo,moderate
+E461,Metil-Celulosa,moderate
+E462,Etil-Celulosa,moderate
+E463,Hidroxipropil-Celulosa,moderate
+E464,Hidroxipropilmetil-Celulosa,moderate
+E465,Metiletil-Celulosa,moderate
+E466,Carboximetil-Celulosa Sódica,moderate
+E467,Etilhidroxietil-Celulosa,moderate
+E468,Carboximetil-Celulosa Sódica Entrelazada,moderate
+E469,Carboximetil-Celulosa Sódica Hidrolizada Enzimáticamente,moderate
+E470,Sales de Ácidos Grasos,low
+E470i,"Sales de Ácidos Mirísticos, Palmíticos y Esteáricos",under review
+E470ii,Sales de Ácidos Oleicos,under review
+E470iii,Sales de Ácidos Esteáricos Magnésicos,under review
+E470a,"Estearato de Sodio, Potasio y Calcio",low
+E470b,Estearato de Magnesio,low
+E471,Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472,Ésteres de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472a,Ésteres Acéticos de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472b,Ésteres Lácticos de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472c,Ésteres Cítricos de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472d,Ésteres Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472e,Ésteres Monoacetiltartárico y Diacetiltartárico de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472f,Ésteres Mixtos Acéticos y Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos,moderate
+E472g,Monoglicéridos Succinilados,under review
+E473,Sucroésteres de Ácidos Grasos,moderate
+E473a,Oligoésteres de Sacarosa,under review
+E474,Sucroglicéridos de Ácidos Grasos,moderate
+E475,Ésteres Poliglicéridos de Ácidos Grasos,moderate
+E476,Polirricinoleato de Poliglicerol,low
+E477,Ésteres de Propilenglicol de Ácidos Grasos,moderate
+E478,Ésteres de Glicerol y Propilenglicol de Ácidos Grasos Lactilados,under review
+E479,Aceites de Soja Oxidados,moderate
+E479a,Aceite de Soja Oxidado Térmicamente,under review
+E479b,Aceite de Soja Oxidado Térmicamente en Interacción con Monoglicéridos y Diglicéridos de Ácidos Grasos (TOSOM),under review
+E480,Dioctil Sulfosuccinato Sódico,moderate
+E481,Lactilatos Sódicos,low
+E481i,Estearoil Lactilato Sódico,low
+E481ii,Lactilato Oleico Sódico,under review
+E482,Lactilatos Cálcicos,low
+E482i,Estearoil Lactilato Cálcico,under review
+E482ii,Lactilato Oleico Cálcico,under review
+E483,Tartrato Estearílico,low
+E484,Citrato Estearílico,under review
+E485,Estearoil Fumarato Sódico,under review
+E486,Estearoil Fumarato Cálcico,under review
+E487,Lauril-Sulfato Sódico,under review
+E488,Monoglicéridos y Diglicéridos Etoxilados,under review
+E489,Éster Metilglucósido del Aceite de Coco,under review
+E491,Monoestearato de Sorbitano,high
+E492,Triestearato de Sorbitano,high
+E493,Monolaurato de Sorbitano,high
+E494,Monooleato de Sorbitano,high
+E495,Monopalmitato de Sorbitano,high
+E496,Trioleato de Sorbitano,high
+E499,Fitoesteroles Ricos en Estigmasterol,low
+E500,Carbonatos Sódicos,low
+E500i,Carbonato Sódico,low
+E500ii,Bicarbonato Sódico,low
+E500iii,Sesquicarbonato Sódico,under review
+E501,Carbonatos Potásicos,low
+E501i,Carbonato Potásico,low
+E501ii,Bicarbonato Potásico,low
+E503,Carbonatos Amónicos,low
+E503i,Carbonato Amónico,low
+E503ii,Bicarbonato Amónico,low
+E504,Carbonatos Magnésicos,low
+E504i,Carbonato Magnésico,low
+E504ii,Bicarbonato Magnésico,low
+E505,Carbonato Ferroso,under review
+E507,Ácido Clorhídrico,high
+E508,Cloruro Potásico,high
+E509,Cloruro Cálcico,high
+E510,Cloruro Amónico,high
+E511,Cloruro Magnésico,low
+E512,Cloruro Estañoso,high
+E513,Ácido Sulfúrico,high
+E514,Sulfatos Sódicos,moderate
+E514i,Sulfato Sódico,moderate
+E514ii,Bisulfato Sódico,moderate
+E515,Sulfatos Potásicos,moderate
+E515i,Sulfato Potásico,moderate
+E515ii,Bisulfato Potásico,moderate
+E516,Sulfatos Cálcicos,moderate
+E516i,Sulfato Cálcico,moderate
+E516ii,Bisulfato Cálcico,moderate
+E517,Sulfatos Amónicos,moderate
+E517i,Sulfato Amónico,moderate
+E517ii,Bisulfato Amónico,moderate
+E518,Sulfatos Magnésicos,moderate
+E518i,Sulfato Magnésico,moderate
+E518ii,Bisulfato Magnésico,moderate
+E519,Sulfatos Cúpricos,high
+E519i,Sulfato Cúprico,high
+E519ii,Bisulfato Cúprico,high
+E520,Sulfato Alumínico,high
+E521,Sulfato Alumínico-Sódico,high
+E522,Sulfato Alumínico-Potásico,high
+E523,Sulfato Alumínico-Amónico,high
+E524,Hidróxido Sódico,moderate
+E525,Hidróxido Potásico,moderate
+E526,Hidróxido Cálcico,moderate
+E527,Hidróxido Amónico,high
+E528,Hidróxido Magnésico,moderate
+E529,Óxido Cálcico,moderate
+E530,Óxido Magnésico,moderate
+E534,Tartrato Ferroso,under review
+E535,Ferrocianuro Sódico,moderate
+E536,Ferrocianuro Potásico,moderate
+E537,Hexacianomanganato Férrico,under review
+E538,Ferrocianuro Cálcico,moderate
+E539,Tiosulfato Sódico,under review
+E540,Fosfato Ácido Cálcico,moderate
+E541,Fosfatos Alumínicos-Sódicos,high
+E541i,Fosfato Ácido Alumínico-Sódico,high
+E541ii,Fosfato Básico Alumínico-Sódico,high
+E542,Fosfato Tribásico Cálcico,high
+E543,Polifosfatos Sódicos-Cálcicos,moderate
+E544,Polifosfatos Cálcicos,moderate
+E545,Polifosfatos Amónicos,moderate
+E546,Polifosfatos Magnésicos,moderate
+E550,Silicatos Sódicos,under review
+E550i,Silicato Sódico,under review
+E550ii,Metasilicato Sódico,under review
+E551,Dióxido de Silicio,high
+E552,Silicato Cálcico,high
+E553,Silicatos Magnésicos,high
+E553a,Silicato Magnésico,high
+E553a(i),Silicato Magnésico Sintético,under review
+E553a(ii),Trisilicato Magnésico,under review
+E553b,Talco Magnésico,high
+E554,Silicato Sódico-Alumínico,high
+E555,Silicato Potásico-Alumínico,high
+E556,Silicato Cálcico-Alumínico,high
+E557,Silicato Zíncico,under review
+E558,Bentonita,low
+E559,Silicato Alumínico,high
+E560,Silicato Potásico,under review
+E570,Ácido Esteárico,moderate
+E574,Ácido Glucónico,low
+E575,Glucono-Delta-Lactona,low
+E576,Gluconato Sódico,low
+E577,Gluconato Potásico,low
+E578,Gluconato Cálcico,low
+E579,Gluconato Ferroso,low
+E585,Lactato Ferroso,low
+E586,Hexilresorcinol,under review
+E620,Ácido Glutámico,high
+E621,Glutamato Monosódico,high
+E622,Glutamato Monopotásico,high
+E623,Glutamato Cálcico,high
+E624,Glutamato Monoamónico,high
+E625,Glutamato Magnésico,high
+E626,Ácido Guanílico,high
+E627,Guanilato Sódico,high
+E628,Guanilato Potásico,high
+E629,Guanilato Cálcico,high
+E630,Ácido Inosínico,high
+E631,Inosinato Sódico,high
+E632,Inosinato Potásico,high
+E633,Inosinato Cálcico,high
+E634,Ribonucleótido Cálcico,high
+E635,Ribonucleótido Sódico,high
+E636,Maltol,moderate
+E637,Etilmaltol,moderate
+E638,Aspartato Sódico,under review
+E639,Alanina,under review
+E640,Glicina y sus Sales Sódicas,high
+E640i,Glicina,under review
+E640ii,Glicinato Sódico,under review
+E641,Leucina,moderate
+E642,Cloruro Lisínico,under review
+E650,Acetato Zíncico,moderate
+E900,"Dimetilsiloxano, DMS",high
+E900a,"Polidimetilsiloxano, PDMS",high
+E900b,"Polimetilfenilsiloxano, PMFS",high
+E901,Ceras de Abejas,low
+E901i,Cera de Abejas Blanca,low
+E901ii,Cera de Abejas Amarilla,low
+E902,Cera Candelilla,low
+E903,Cera Carnaúba,low
+E904,Goma Laca,moderate
+E904i,Goma Laca Blanca,under review
+E904ii,Goma Laca Naranja,under review
+E905,Cera Microcristalina,high
+E905a,Aceite Mineral de Calidad Alimentaria,under review
+E905b,Vaselina de Calidad Alimentaria,under review
+E905c,Cera de Parafina,under review
+E905d,Parafina Líquida de Viscosidad Alta,under review
+E905e,Parafina Líquida de Viscosidad Media y Baja (Clase 1),under review
+E905f,Parafina Líquida de Viscosidad Media y Baja (Clase 2),under review
+E905g,Parafina Líquida de Viscosidad Media y Baja (Clase 3),under review
+E906,Goma de Benzoína,under review
+E907,Poli-1-Deceno Hidrogenado,high
+E908,Cera de Salvado de Arroz,under review
+E909,Cera de Esperma de Ballena,under review
+E910,Ésteres de Cera,under review
+E911,Ésteres Metílicos de Ácidos Grasos,under review
+E912,Ésteres de Ácido Montánico,moderate
+E913,Cera de Lana (Lanolina),low
+E914,Cera de Polietileno Oxidada,high
+E915,"Ésteres Glicerílicos, Metílicos o Pentaeritríticos de Colofonia Parcialmente Hidrogenada o Polimerizada",under review
+E916,Yodato Cálcico,under review
+E917,Yodato Potásico,under review
+E918,Óxidos de Nitrógeno,under review
+E919,Cloruro Nitrosílico,under review
+E920,L-Cisteína y Clorhidratos de Cisteína,low
+E921,L-Cistina y Clorhidratos de Cistina,low
+E922,Persulfato Potásico,under review
+E923,Persulfato Amónico,under review
+E924,Bromatos,under review
+E924a,Bromato Potásico,under review
+E924b,Bromato Cálcico,under review
+E925,Cloro,under review
+E926,Dióxido de Cloro,under review
+E927,Derivados del Ácido Carbámico,under review
+E927a,Azodicarbonamida,high
+E927b,Carbamida (Urea),low
+E928,Peróxido Benzoílico,under review
+E929,Peróxido Acetónico,under review
+E930,Peróxido Cálcico,under review
+E938,Argón,low
+E939,Helio,low
+E940,Diclorodifluorometano,under review
+E941,Nitrógeno,low
+E942,Óxido Nitroso,low
+E943,Butanos,high
+E943a,Butano,high
+E943b,Isobutano,high
+E944,Propano,high
+E945,Cloropentafluoroetano,under review
+E946,Octafluorociclobutano,under review
+E948,Oxígeno,low
+E949,Hidrógeno,low
+E950,Acesulfamo K,high
+E951,Aspartamo,high
+E952,Ácido Ciclámico y sus Sales Sódicas y Cálcicas,high
+E952i,Ácido Ciclámico,high
+E952ii,Ciclamato Sódico,high
+E952iii,Ciclamato Cálcico,high
+E953,Isomaltosa,low
+E954,"Sacarina y sus Sales Sódicas, Cálcicas y Potásicas",high
+E954i,Sacarina,high
+E954ii,Sacarina Sódica,high
+E954iii,Sacarina Cálcica,high
+E954iv,Sacarina Potásica,high
+E955,Sucralosa,high
+E956,Alitame,under review
+E957,Taumatina,low
+E958,Glicirricina,high
+E959,Neohesperidina Dihidrocalcona (NHDC),moderate
+E960,Glicósidos de Esteviol,moderate
+E960a,Glicósidos de Esteviol de Stevia Rebaudiana Bertoni,under review
+E960b,Glicósidos de Esteviol de Fermentación,under review
+E960b(i),Glicósidos de Esteviol de Yarrowia Lipolytica (Rebaudiósido A),under review
+E960c,Glicósidos de Esteviol de Enzimas,under review
+E960d,Glicósidos de Esteviol Glicosilados,under review
+E961,Neotamo,high
+E962,Sal de Aspartamo y Acesulfamo,high
+E963,Tagatosa,low
+E964,Jarabe de Poliglicitol,under review
+E965,Maltitoles,moderate
+E965i,Maltitol,moderate
+E965ii,Jarabe de Maltitol,moderate
+E966,Lactitol,moderate
+E967,Xilitol,low
+E968,Eritritol,high
+E969,Advantame,moderate
+E999,Extracto de Quilaya,moderate
+E999i,Extracto de Quilaya (Clase 1),under review
+E999ii,Extracto de Quilaya (Clase 2),under review
+E1000,Ácido Cólico,under review
+E1001,Sales y Ésteres Colínicos,under review
+E1001i,Acetato Colínico,under review
+E1001ii,Carbonato Colínico,under review
+E1001iii,Cloruro Colínico,under review
+E1001iv,Citrato Colínico,under review
+E1001v,Tartrato Colínico,under review
+E1001vi,Lactato Colínico,under review
+E1100,Amilasas,moderate
+E1100i,Alfa-Amilasa de Aspergillus Oryzae,under review
+E1100ii,Alfa-Amilasa de Bacillus Stearothermophilus,under review
+E1100iii,Alfa-Amilasa de Bacillus Subtilis,under review
+E1100iv,Alfa-Amilasa de Bacillus Megaterium,under review
+E1100v,Alfa-Amilasa de Geobacillus Stearothermophilus,under review
+E1100vi,Carbohidrasa de Bacillus Licheniformis,under review
+E1101,Proteasas,under review
+E1101i,Proteasa de Aspergillus Oryzae,under review
+E1101ii,Papaína,under review
+E1101iii,Bromelaína,under review
+E1101iv,Ficina,under review
+E1101v,Proteasa de Streptomyces Fradiae,under review
+E1101vi,Proteasa de Bacillus Subtilis,under review
+E1102,Glucosa Oxidasa,under review
+E1103,Invertasas,low
+E1104,Lipasas,under review
+E1105,Lisozima,moderate
+E1200,Polidextrosas,low
+E1201,Polivinilpirrolidona (PVP),high
+E1202,Polivinilpolipirrolidona (PVPP),high
+E1203,Alcohol Polivinílico,moderate
+E1204,Pululano,low
+E1205,Copolímero de Metacrilato Básico,under review
+E1206,Copolímero de Metacrilato Neutro,under review
+E1207,Copolímero de Metacrilato Aniónico,under review
+E1208,Copolímero de Acetato de Vinilo,high
+E1209,Copolímero de Injerto de Polivinialcohol (PVA) y Polietilenglicol (PVE),moderate
+E1210,Poliacrilato Sódico,under review
+E1400,Dextrinas,moderate
+E1401,Almidón Ácido,moderate
+E1402,Almidón Alcalino,moderate
+E1403,Almidón Blanqueado,moderate
+E1404,Almidón Oxidado,moderate
+E1405,Almidón Enzimático,moderate
+E1410,Fosfato de Monoalmidón,moderate
+E1412,Fosfato de Dialmidón,moderate
+E1413,Fosfato de Dialmidón Fosfatado,moderate
+E1414,Fosfato de Dialmidón Acetilado,moderate
+E1420,Almidón Acetilado,moderate
+E1422,Adipato de Dialmidón Acetilado,moderate
+E1440,Hidroxipropil-Almidón,moderate
+E1441,Glicerona de Dialmidón Hidroxipropilado,moderate
+E1442,Fosfato de Dialmidón Hidroxipropilado,moderate
+E1450,Octenil-Succinato Sódico de Almidón,moderate
+E1451,Almidón Oxidado Acetilado,moderate
+E1452,Octenil-Succinato Alumínico de Almidón,moderate
+E1501,Hidrocarbonos Bencilados,under review
+E1502,Butanodiol,under review
+E1503,Aceite de Ricino,moderate
+E1504,Ciclotetraglucosas,under review
+E1504i,Ciclotetraglucosa,under review
+E1504ii,Jarabe de Ciclotetraglucosa,under review
+E1505,Citrato Trietílico,moderate
+E1510,Alcohol Etílico,under review
+E1516,Monoacetato de Glicerilo,low
+E1517,Diacetato de Glicerilo,low
+E1518,Triacetato de Glicerilo,low
+E1519,Alcohol Bencílico,moderate
+E1520,Propilenglicol,low
+E1521,Polietilenglicol,high
+E1522,Lignosulfonato Cálcico,under review

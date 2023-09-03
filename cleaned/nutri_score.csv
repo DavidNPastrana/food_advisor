@@ -1,0 +1,6 @@
+nutri_score_id,nutri_score_num,description
+A,1,Very Healthy
+B,2,Healthy
+C,3,Average
+D,4,Unhealthy
+E,5,Very Unhealthy
