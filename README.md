@@ -1,6 +1,6 @@
 # ETL, analysis and visualization project: Food Advisor
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/food_advisor/images/p-1-food-labels-to-read-1515525122.jpg)
+![Image Description](images/p-1-food-labels-to-read-1515525122.jpg)
 
 
 ## 1. Project Description
@@ -24,7 +24,7 @@ The data for this project has been extracted usig Web Scraping techniques from v
 
 Open Food Facts contains information about food products. We used web scraping techniques in Python to extract information from approximately 30,000 products. The raw data after the scraping process is shown here: 
 
-![Open Food Facts](/images/food_facts.png)
+![Open Food Facts](images/food_facts.png)
 
 
 ### 2.2 [Food Additives:](https://www.aditivos-alimentarios.com/)
@@ -39,7 +39,7 @@ To ensure the dataset is ready for loading into the "BigQuery" warehouse and sub
 
 The scraped information from the mentioned sources was loaded into DataFrames using the Python library "Pandas". The information underwent a comprehensive cleaning process, including tasks such as renaming column names and removing non-numerical characters in float columns. It also underwent transformation procedures such as identifying and handling outliers or performing value imputation to fill null values comprehensively.
 
-![Outliers](/Users/david/Desktop/IronHack/Projects/food_advisor/images/Outliers.png)Outliers in our data
+![Outliers](images/Outliers.png)Outliers in our data
 
 After completing these steps, the clean data was exported as CSV files in preparation for loading into the BigQuery data warehouse.
 
@@ -55,7 +55,7 @@ For the storage and analysis of the data obtained in the previous steps, we deci
 - Nova-score
 
 
-![BigQuery](/Users/david/Desktop/IronHack/Projects/food_advisor/images/BigQuery.png)BigQuery Warehouse.
+![BigQuery](images/BigQuery.png)BigQuery Warehouse.
 
 Please, click [here](https://console.cloud.google.com/bigquery?hl=es&_ga=2.9595701.1641939318.1694040162-741584245.1693333121&pli=1&project=food-advisor-397909&ws=!1m9!1m4!1m3!1sfood-advisor-397909!2sbquxjob_5a977b_18a6caa937a!3seurope-southwest1!1m3!3m2!1sfood-advisor-397909!2sfood_advisor) to access the data in BigQuery.
 
