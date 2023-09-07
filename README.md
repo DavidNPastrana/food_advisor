@@ -143,8 +143,6 @@ This folder contains 4 Jupyter notebooks:
 ### Images folder
 This folder contains .png and .jpg files that were used for Tableau visualizations as well as for this readme document.
 
-### Tableau file (.twb)
-This folder contains the Tableau workbook file (.twb) that includes the data visualizations created for this project.
 
 ### Readme
 The README file provides a comprehensive overview of the project, including the project description, data extraction, cleaning and analysis. It serves as a guide for readers to understand the project's purpose and the steps involved.
