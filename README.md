@@ -1,6 +1,6 @@
 # ETL, analysis and visualization project: Food Advisor
 
-![Image Description](images/p-1-food-labels-to-read-1515525122.jpg)
+![Image Description](/Users/david/Desktop/IronHack/Projects/food_advisor/images/p-1-food-labels-to-read-1515525122.jpg)
 
 
 ## 1. Project Description
@@ -24,14 +24,14 @@ The data for this project has been extracted usig Web Scraping techniques from v
 
 Open Food Facts contains information about food products. We used web scraping techniques in Python to extract information from approximately 30,000 products. The raw data after the scraping process is shown here: 
 
-![Open Food Facts](/Users/david/Desktop/IronHack/Projects/food_advisor/images/food_facts.png)
+![Open Food Facts](/images/food_facts.png)
 
 
 ### 2.2 [Food Additives:](https://www.aditivos-alimentarios.com/)
 
 The Food Additives web includes the name, code, and toxicity information of all additives.
 
-![Food additives](/Users/david/Desktop/IronHack/Projects/food_advisor/images/food_additives.png)
+![Food additives](images/food_additives.png)
 
 ## 3. Data Cleaning and Transformation
 
@@ -87,4 +87,19 @@ FROM (SELECT
     LEFT JOIN food_advisor.nova_score n ## left joinining `nova_score` to access information about the nova-score of each product (when available)
     ON n.nova_score_num=p.nova_score_num
     ) 
-ORDER BY product_id ```
+ORDER BY product_id 
+```
+
+The result of the query is a table with all the information necessary for visualization. The table contains 18 columns and approximately 33000 rows.
+
+## 5. Data Analysis
+
+The data was analyzed using Python to see correlations between variables and Tableau to visualize the data and get insgigths from it. 
+
+Please, click here to see the visualization.
+
+
+
+Based on the analysis, several conclusions can be drawn:
+
+
